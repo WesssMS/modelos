@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('jquery', 'wp-components', 'wp-element', 'wp-i18n'), 'version' => 'a48d0360df74bfcce7f9f34d27e0491e');
